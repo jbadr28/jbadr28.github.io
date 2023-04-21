@@ -42,9 +42,29 @@
     <div id="to-blur" class="background-blur">
         <!-- JT Video Container-->
         <div id="home">
-            <div id="video">
-                <h4>JT Video Container</h4>
+            <div class="slider" id="slider">
+                <div class="slides">
+                    <input type="radio" name="radio-btn" id="radio1">
+                    <input type="radio" name="radio-btn" id="radio2">
+                    <div class="slide first">
+                        <img src="rsc/correction.gif" id="gif1">
+                    </div>
+                    <div class="slide">
+                        <img src="rsc/font.gif" id="gif2">
+                    </div>
+                    <div class="auto-switch">
+                        <div class="auto-btn1"></div>
+                        <div class="auto-btn2"></div>
+                    </div>
+                    <div class="manual-switch">
+                        <label for="radio1" class="manual-btn"></label>
+                        <label for="radio2" class="manual-btn"></label>
+                    </div>
+
+                </div>
+
             </div>
+            
             <div id="separetor"></div>
             <div id="jt" class="container">
                 <div class="row">
@@ -149,7 +169,7 @@
     <div id="report" class="container">
         <h2>REPORT A BUG</h2>
         <p>Reporting bugs will help us provide a better experience to the user! <br>Thanks in advance.<br></p>
-        <hr>
+        <hr style="padding-bottom: 0;">
         <div id="form">
             <label for="name">Name: </label><br>
             <input type="text" name="name" placeholder="Enter your name" id="name" required><br>
