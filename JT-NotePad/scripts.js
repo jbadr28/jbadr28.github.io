@@ -30,3 +30,15 @@ function sendEmail(){
     })
     .catch((err) => console.log(err));
 }
+
+// Image switching 
+var count = 1;
+
+setInterval(function(){
+    document.getElementById('radio'+count).checked = true;
+    count++;
+    if(count > 2){
+        count = 1;
+    }
+}, 10000);
+
