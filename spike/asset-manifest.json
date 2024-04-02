@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c43b24e.css",
-    "main.js": "/static/js/main.96341d8a.js",
-    "static/js/453.f4816f7b.chunk.js": "/static/js/453.f4816f7b.chunk.js",
-    "static/media/LinkedIn_icon.svg": "/static/media/LinkedIn_icon.a236a02cbeb24525fd3bcf55fc6e41c6.svg",
-    "index.html": "/index.html",
-    "main.8c43b24e.css.map": "/static/css/main.8c43b24e.css.map",
-    "main.96341d8a.js.map": "/static/js/main.96341d8a.js.map",
-    "453.f4816f7b.chunk.js.map": "/static/js/453.f4816f7b.chunk.js.map"
+    "main.css": "/spike/static/css/main.8c43b24e.css",
+    "main.js": "/spike/static/js/main.96341d8a.js",
+    "static/js/453.f4816f7b.chunk.js": "/spike/static/js/453.f4816f7b.chunk.js",
+    "static/media/LinkedIn_icon.svg": "/spike/static/media/LinkedIn_icon.a236a02cbeb24525fd3bcf55fc6e41c6.svg",
+    "index.html": "/spike/index.html",
+    "main.8c43b24e.css.map": "/spike/static/css/main.8c43b24e.css.map",
+    "main.96341d8a.js.map": "/spike/static/js/main.96341d8a.js.map",
+    "453.f4816f7b.chunk.js.map": "/spike/static/js/453.f4816f7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c43b24e.css",
-    "static/js/main.96341d8a.js"
+    "/spike/static/css/main.8c43b24e.css",
+    "/spike/static/js/main.96341d8a.js"
   ]
 }
