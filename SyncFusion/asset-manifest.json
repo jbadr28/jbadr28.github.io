@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SyncFusion/static/css/main.3c02643f.chunk.css",
-    "main.js": "/SyncFusion/static/js/main.35b6031c.chunk.js",
-    "main.js.map": "/SyncFusion/static/js/main.35b6031c.chunk.js.map",
+    "main.js": "/SyncFusion/static/js/main.5e02b390.chunk.js",
+    "main.js.map": "/SyncFusion/static/js/main.5e02b390.chunk.js.map",
     "runtime-main.js": "/SyncFusion/static/js/runtime-main.a61de70c.js",
     "runtime-main.js.map": "/SyncFusion/static/js/runtime-main.a61de70c.js.map",
     "static/css/2.58c5e267.chunk.css": "/SyncFusion/static/css/2.58c5e267.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.58c5e267.chunk.css",
     "static/js/2.c1ea8679.chunk.js",
     "static/css/main.3c02643f.chunk.css",
-    "static/js/main.35b6031c.chunk.js"
+    "static/js/main.5e02b390.chunk.js"
   ]
 }
