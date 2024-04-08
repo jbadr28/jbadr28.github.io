@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/SyncFusion/static/css/main.3c02643f.chunk.css",
+    "main.js": "/SyncFusion/static/js/main.35b6031c.chunk.js",
+    "main.js.map": "/SyncFusion/static/js/main.35b6031c.chunk.js.map",
+    "runtime-main.js": "/SyncFusion/static/js/runtime-main.a61de70c.js",
+    "runtime-main.js.map": "/SyncFusion/static/js/runtime-main.a61de70c.js.map",
+    "static/css/2.58c5e267.chunk.css": "/SyncFusion/static/css/2.58c5e267.chunk.css",
+    "static/js/2.c1ea8679.chunk.js": "/SyncFusion/static/js/2.c1ea8679.chunk.js",
+    "static/js/2.c1ea8679.chunk.js.map": "/SyncFusion/static/js/2.c1ea8679.chunk.js.map",
+    "static/js/3.317e5acf.chunk.js": "/SyncFusion/static/js/3.317e5acf.chunk.js",
+    "static/js/3.317e5acf.chunk.js.map": "/SyncFusion/static/js/3.317e5acf.chunk.js.map",
+    "index.html": "/SyncFusion/index.html",
+    "static/css/2.58c5e267.chunk.css.map": "/SyncFusion/static/css/2.58c5e267.chunk.css.map",
+    "static/css/main.3c02643f.chunk.css.map": "/SyncFusion/static/css/main.3c02643f.chunk.css.map",
+    "static/js/2.c1ea8679.chunk.js.LICENSE.txt": "/SyncFusion/static/js/2.c1ea8679.chunk.js.LICENSE.txt",
+    "static/media/LinkedIn_icon.a236a02c.svg": "/SyncFusion/static/media/LinkedIn_icon.a236a02c.svg",
+    "static/media/java-4-logo.8ee5f981.svg": "/SyncFusion/static/media/java-4-logo.8ee5f981.svg",
+    "static/media/python.62e8a444.svg": "/SyncFusion/static/media/python.62e8a444.svg",
+    "static/media/sql-database-generic.69052411.svg": "/SyncFusion/static/media/sql-database-generic.69052411.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a61de70c.js",
+    "static/css/2.58c5e267.chunk.css",
+    "static/js/2.c1ea8679.chunk.js",
+    "static/css/main.3c02643f.chunk.css",
+    "static/js/main.35b6031c.chunk.js"
+  ]
+}
